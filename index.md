@@ -16,4 +16,5 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 ![图片介绍，一只猫](https://octodex.github.com/images/yaktocat.png)
+###### 测试
 
